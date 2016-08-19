@@ -1,6 +1,6 @@
 Yii2 FontAwesome Asset
 ======
-see  http://fontawesome.io/ 
+see  http://fontawesome.io/
 
 Installation
 ------------
@@ -20,7 +20,7 @@ or add
 ```
 
 to the require section of your `composer.json` file.
- 
+
 
 View
 -----
@@ -29,7 +29,7 @@ View
 
 yangshihe\fontawesome\FontAwesomeAsset::register($this);
 ```
-OR 
+OR
 
 ```php
 class AppAsset extends AssetBundle
