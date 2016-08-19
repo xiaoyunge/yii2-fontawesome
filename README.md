@@ -22,7 +22,7 @@ or add
 to the require section of your `composer.json` file.
  
 
-视图部
+View
 -----
 
 ```php
