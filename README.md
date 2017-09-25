@@ -10,16 +10,9 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```sh
-php composer.phar require --prefer-dist yangshihe/yii2-fontawesome "*"
+composer require yangshihe/yii2-fontawesome
 ```
 
-or add
-
-```
-"yangshihe/yii2-fontawesome": "*"
-```
-
-to the require section of your `composer.json` file.
 
 
 View
@@ -41,4 +34,4 @@ class AppAsset extends AssetBundle
 }
 ```
 
-挂件的使用..... 稍后
+自己使用
